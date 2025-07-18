@@ -37,7 +37,7 @@ const Jason = () => {
   return (
     <section className="jason">
       <div className="max-w-lg jason-content">
-        <h1>Jason Duval</h1>
+        <h1>Masagazi</h1>
         <h2>Jason wants an easy life, but things just keep getting harder</h2>
         <p>
           Jason grew up around grifters and crooks. After a stint in the Army
